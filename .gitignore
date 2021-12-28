@@ -105,5 +105,5 @@ typings/
 *.scss
 scss
 
-src/
-htlm/
+/src
+/htlm
